@@ -45,8 +45,8 @@
                     "longitude": -75.41508141431119,
                     "altitude": 147
                 },
-                "pitch": 45,
-                "distance": 170,
+                "pitch": 40.0,
+                "distance": 170.0,
                 "starting_angle": 55,
                 "cruising_altitude": 54.864,
                 "speed": 5.0,
